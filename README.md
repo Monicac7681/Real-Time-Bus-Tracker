@@ -2,18 +2,18 @@
 
 <h2>Description of the project:</h2>
 
-This project uses the MBTA bus data to determine the stops between Harvard and MIT. It includes an animated marker on the map to highlight the bus route.
+This project uses google map and the Massachusetts Bay Transportation Authority Bus data to provide a live update on the location of the buses.
 
 <h2>How to Run:</h2>
 
-Click on the button "Show stops between MIT and Harvard" on the upper left hand corner of the map. You will see the animiated red marker move from MIT to Harvard in 1 second (1000ms) increments.
+This map automatically updates the bus locations every second. 
 
 <h2>Roadmap of future improvements:</h2>
 
 I plan to
-- highlight the route;
-- Add MIT and Harvard logo as well as other landmark logos along the route
-- Change the marker to look like a puppy or a bus
+- add more styles to the Google Map
+- add bus name, route, vacancy information when user hoover over a bus icon
+- maybe overlay a bus route map
 
 <h3>License information:</h3>
 MIT License
